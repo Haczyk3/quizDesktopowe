@@ -1,0 +1,49 @@
+/* Add purple gradient background */
+body {
+    background: linear-gradient(to right, #800080, #d9a5e2);
+}
+
+/* Style for top stats card */
+.stats-card {
+    border-radius: 15px;
+    background: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Prize ladder button styles */
+.prize-ladder-button {
+    display: inline-block;
+    border-radius: 10px;
+    padding: 10px 20px;
+    background-color: #5c4b8a;
+    color: white;
+    text-align: center;
+}
+
+/* Center question panel */
+.question-panel {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Light answer option cards */
+.answer-option {
+    border-radius: 15px;
+    background-color: #f0e6f7;
+    padding: 15px;
+    margin: 10px;
+    width: calc(25% - 20px);
+    text-align: center;
+}
+
+/* Circular badges for A/B/C/D */
+.badge {
+    border-radius: 50%;
+    background-color: #5c4b8a;
+    color: white;
+    padding: 5px 10px;
+    display: inline-block;
+    margin-right: 5px;
+}
