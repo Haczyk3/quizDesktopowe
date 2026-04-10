@@ -1,0 +1,9 @@
+C:\Users\Filip\Desktop\projects\quizDesk\quizDesk\bin\Debug\quizDesk.exe.config
+C:\Users\Filip\Desktop\projects\quizDesk\quizDesk\bin\Debug\quizDesk.exe
+C:\Users\Filip\Desktop\projects\quizDesk\quizDesk\bin\Debug\quizDesk.pdb
+C:\Users\Filip\Desktop\projects\quizDesk\quizDesk\obj\Debug\quizDesk.csproj.AssemblyReference.cache
+C:\Users\Filip\Desktop\projects\quizDesk\quizDesk\obj\Debug\quizDesk.Properties.Resources.resources
+C:\Users\Filip\Desktop\projects\quizDesk\quizDesk\obj\Debug\quizDesk.csproj.GenerateResource.cache
+C:\Users\Filip\Desktop\projects\quizDesk\quizDesk\obj\Debug\quizDesk.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\projects\quizDesk\quizDesk\obj\Debug\quizDesk.exe
+C:\Users\Filip\Desktop\projects\quizDesk\quizDesk\obj\Debug\quizDesk.pdb
